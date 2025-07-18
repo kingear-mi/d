@@ -1,0 +1,302 @@
+{
+  "chat_id": "787115239",
+  "username": "KRIXSITE",
+  "link_count": 7,
+  "is_premium": false,
+  "premium_expiry": null,
+  "categories": {
+    "All": "blue",
+    "Fun": "pink",
+    "Maps": "green",
+    "News": "red",
+    "Tech": "indigo",
+    "Music": "purple",
+    "Posts": "yellow",
+    "Sport": "green",
+    "Useful": "blue",
+    "AI Chats": "purple"
+  },
+  "start_message": 4162,
+  "interactions": [
+    {
+      "type": "user_message",
+      "content": "/start",
+      "timestamp": "2025-07-16T15:27:44.900711"
+    },
+    {
+      "type": "bot_response",
+      "content": "Знову втратив потрібне посилання? ⛔️ Воно було в чаті. Або в закладках. Або в нотатках. Ти точно його зберігав… але де саме — не пам’ятаєш. \n 📌 У Telegram — хаос. Посилання губляться в переписках, корисні боти зникають угорі, відео, статті, ІІ-чати — усе змішалося. \n А коли треба швидко знайти — ти витрачаєш час, нерви і… знову гуглиш. \n 📲 Рішення вже є — @sortik_app_bot, універсальний органайзер посилань прямо в Telegram. Ось що він вміє: \n✔️ Зберігає посилання за темами та проєктами; \n✔️ Сортує відео, статті, ботів, канали — за категоріями; \n✔️ Дає доступ в один клік; \n✔️ Працює як міні-додаток — красиво і зручно; \n✔️ І головне — усе локально на твоєму пристрої. 100% приватність. \n⚡️ БІЛЬШЕ НІЯКОЇ ПЛУТАНИНИ, жодних «потім знайду». Зберігай. Керуй. Повертайся до потрібного — коли треба. \n👉 СПРОБУЙ ПРЯМО ЗАРАЗ: 🔗 t.me/sortik_app_bot \nНадішли посилання зараз і почни організовувати!",
+      "timestamp": "2025-07-16T15:27:45.384848"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/X3y3VjP4YyQ?si=dPuc7X7KNZBqRvEC",
+      "timestamp": "2025-07-16T15:27:50.648949"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/X3y3VjP4YyQ?si=dPuc7X7KNZBqRvEC",
+      "timestamp": "2025-07-16T15:27:50.649115"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted start message (ID: 4160)",
+      "timestamp": "2025-07-16T15:27:51.275720"
+    },
+    {
+      "type": "bot_response",
+      "content": "Знову втратив потрібне посилання? ⛔️ Воно було в чаті. Або в закладках. Або в нотатках. Ти точно його зберігав… але де саме — не пам’ятаєш. \n 📌 У Telegram — хаос. Посилання губляться в переписках, корисні боти зникають угорі, відео, статті, ІІ-чати — усе змішалося. \n А коли треба швидко знайти — ти витрачаєш час, нерви і… знову гуглиш. \n 📲 Рішення вже є — @sortik_app_bot, універсальний органайзер посилань прямо в Telegram. Ось що він вміє: \n✔️ Зберігає посилання за темами та проєктами; \n✔️ Сортує відео, статті, ботів, канали — за категоріями; \n✔️ Дає доступ в один клік; \n✔️ Працює як міні-додаток — красиво і зручно; \n✔️ І головне — усе локально на твоєму пристрої. 100% приватність. \n⚡️ БІЛЬШЕ НІЯКОЇ ПЛУТАНИНИ, жодних «потім знайду». Зберігай. Керуй. Повертайся до потрібного — коли треба. \n👉 СПРОБУЙ ПРЯМО ЗАРАЗ: 🔗 t.me/sortik_app_bot \nНадішли посилання зараз і почни організовувати!",
+      "timestamp": "2025-07-16T15:27:51.527249"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 1",
+      "timestamp": "2025-07-16T15:27:51.527903"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Виберіть категорію для вашого посилання! 🌈✨",
+      "timestamp": "2025-07-16T15:27:51.728302"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/UYYDChp8d5Q?si=5Oi8BY7w3mw3ZRT2",
+      "timestamp": "2025-07-16T16:02:46.485522"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/UYYDChp8d5Q?si=5Oi8BY7w3mw3ZRT2",
+      "timestamp": "2025-07-16T16:02:46.485682"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 2",
+      "timestamp": "2025-07-16T16:02:46.485692"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4163)",
+      "timestamp": "2025-07-16T16:02:47.010816"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Виберіть категорію для вашого посилання! 🌈✨",
+      "timestamp": "2025-07-16T16:02:47.229260"
+    },
+    {
+      "type": "user_message",
+      "content": "Callback: direct_download|mp4|720p|c46f0099-78cf-4316-a000-ff3211fed6cd",
+      "timestamp": "2025-07-16T16:02:50.089890"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted action selection message",
+      "timestamp": "2025-07-16T16:02:50.591378"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/UYYDChp8d5Q?si=5Oi8BY7w3mw3ZRT2",
+      "timestamp": "2025-07-16T16:03:05.655120"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/UYYDChp8d5Q?si=5Oi8BY7w3mw3ZRT2",
+      "timestamp": "2025-07-16T16:03:05.655142"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 3",
+      "timestamp": "2025-07-16T16:03:05.655154"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Виберіть категорію для вашого посилання! 🌈✨",
+      "timestamp": "2025-07-16T16:03:06.438739"
+    },
+    {
+      "type": "user_message",
+      "content": "Callback: direct_download|mp3|9f65f1d5-8e35-4d91-8854-189795b4be8b",
+      "timestamp": "2025-07-16T16:03:13.789070"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted action selection message",
+      "timestamp": "2025-07-16T16:03:14.395932"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/UYYDChp8d5Q?si=5Oi8BY7w3mw3ZRT2",
+      "timestamp": "2025-07-16T16:03:21.998895"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/UYYDChp8d5Q?si=5Oi8BY7w3mw3ZRT2",
+      "timestamp": "2025-07-16T16:03:21.998920"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 4",
+      "timestamp": "2025-07-16T16:03:21.998932"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Виберіть категорію для вашого посилання! 🌈✨",
+      "timestamp": "2025-07-16T16:03:22.801901"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/UYYDChp8d5Q?si=5Oi8BY7w3mw3ZRT2",
+      "timestamp": "2025-07-16T16:03:45.354091"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/UYYDChp8d5Q?si=5Oi8BY7w3mw3ZRT2",
+      "timestamp": "2025-07-16T16:03:45.354245"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 5",
+      "timestamp": "2025-07-16T16:03:45.354254"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Виберіть категорію для вашого посилання! 🌈✨",
+      "timestamp": "2025-07-16T16:03:45.678425"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-16T16:03:45.911761"
+    },
+    {
+      "type": "user_message",
+      "content": "Привет",
+      "timestamp": "2025-07-17T15:25:38.707686"
+    },
+    {
+      "type": "bot_response",
+      "content": "Пожалуйста, отправьте действительную команду или ссылку! 😊",
+      "timestamp": "2025-07-17T15:25:39.245509"
+    },
+    {
+      "type": "user_message",
+      "content": "https://www.kickstarter.com/projects/oricotechs/orico-cyberdata-ai-powered-nas-with-gpu-dock-and-raid-cabinet",
+      "timestamp": "2025-07-17T15:25:49.482974"
+    },
+    {
+      "type": "user_message",
+      "content": "https://www.kickstarter.com/projects/oricotechs/orico-cyberdata-ai-powered-nas-with-gpu-dock-and-raid-cabinet",
+      "timestamp": "2025-07-17T15:25:49.483000"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 6",
+      "timestamp": "2025-07-17T15:25:49.483009"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4239)",
+      "timestamp": "2025-07-17T15:25:49.932725"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Выберите категорию для вашей ссылки! 🌈✨",
+      "timestamp": "2025-07-17T15:25:50.108064"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-17T15:25:51.585218"
+    },
+    {
+      "type": "user_message",
+      "content": "Скачать видео",
+      "timestamp": "2025-07-17T15:26:06.284083"
+    },
+    {
+      "type": "bot_response",
+      "content": "Пожалуйста, отправьте действительную команду или ссылку! 😊",
+      "timestamp": "2025-07-17T15:26:06.899359"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/bWGWuix41uo?si=HnqQBAhMGxMU5o1d",
+      "timestamp": "2025-07-17T15:27:06.450411"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/bWGWuix41uo?si=HnqQBAhMGxMU5o1d",
+      "timestamp": "2025-07-17T15:27:06.450638"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 7",
+      "timestamp": "2025-07-17T15:27:06.450652"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4244)",
+      "timestamp": "2025-07-17T15:27:06.957481"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Выберите категорию для вашей ссылки! 🌈✨",
+      "timestamp": "2025-07-17T15:27:07.202253"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-17T15:27:08.722626"
+    },
+    {
+      "type": "user_message",
+      "content": "Скачать видео 🎬",
+      "timestamp": "2025-07-17T15:27:22.550407"
+    },
+    {
+      "type": "bot_response",
+      "content": "📹 Select video quality:",
+      "timestamp": "2025-07-17T15:27:23.117105"
+    },
+    {
+      "type": "user_message",
+      "content": "Callback: download_quality|mp4|1080p|e7ee370c-ee1d-472d-997d-40c9f05ffe63",
+      "timestamp": "2025-07-17T15:27:25.904483"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted quality selection message",
+      "timestamp": "2025-07-17T15:27:26.273517"
+    },
+    {
+      "type": "bot_response",
+      "content": "Обработка вашей ссылки... ⏳✨",
+      "timestamp": "2025-07-17T15:27:26.489417"
+    },
+    {
+      "type": "bot_response",
+      "content": "Video sent without caption",
+      "timestamp": "2025-07-17T15:27:50.345420"
+    },
+    {
+      "type": "bot_action",
+      "content": "Removed keyboard after download",
+      "timestamp": "2025-07-17T15:27:50.602077"
+    }
+  ],
+  "last_mode": null,
+  "previous_message": null,
+  "current_url": "https://youtube.com/shorts/bWGWuix41uo?si=HnqQBAhMGxMU5o1d",
+  "category_add_mode": false,
+  "category_edit_mode": false,
+  "download_id": "e7ee370c-ee1d-472d-997d-40c9f05ffe63",
+  "last_url_message": null,
+  "category_name_message": null,
+  "category_edit_message": null,
+  "category_to_edit": null,
+  "successful_payment_message": null,
+  "new_category": null,
+  "category_color_message": null,
+  "category_add_trigger": null,
+  "last_updated": "2025-07-18T14:15:45.544405"
+}

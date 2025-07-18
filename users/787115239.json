@@ -16,7 +16,7 @@
     "Useful": "blue",
     "AI Chats": "purple"
   },
-  "start_message": 4162,
+  "start_message": 4596,
   "interactions": [
     {
       "type": "user_message",
@@ -307,6 +307,16 @@
       "type": "bot_response",
       "content": "⬇️ Выберите действие:",
       "timestamp": "2025-07-18T17:42:02.906252"
+    },
+    {
+      "type": "user_message",
+      "content": "/start",
+      "timestamp": "2025-07-18T17:42:22.098675"
+    },
+    {
+      "type": "bot_response",
+      "content": "Lost that link again? ⛔️ It was in a chat. Or a bookmark. Or maybe a note. You definitely saved it… but where? \n 📌 In Telegram, it’s chaos. Links get buried in chats, useful bots scroll out of sight, videos, articles, AI chats—all jumbled together. \n And when you need to find something fast, you waste time, nerves, and… end up Googling again. \n 📲 The solution is here — @sortik_app_bot, the ultimate link organizer right in Telegram. Here’s what it does: \n✔️ Saves links by topics and projects; \n✔️ Sorts videos, articles, bots, channels—by categories; \n✔️ Gives you one-tap access; \n✔️ Works as a sleek mini-app—beautiful and user-friendly; \n✔️ And most importantly—keeps everything local on your device. 100% privacy. \n⚡️ NO MORE MESS, no more “I’ll find it later.” Save. Manage. Get back to what matters—when it matters. \n👉 TRY IT NOW: 🔗 t.me/sortik_app_bot \nSend a link now and start organizing!",
+      "timestamp": "2025-07-18T17:42:22.578029"
     }
   ],
   "last_mode": null,

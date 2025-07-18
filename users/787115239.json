@@ -302,6 +302,11 @@
       "type": "bot_response",
       "content": "📂 Choose a category for your link! 🌈✨",
       "timestamp": "2025-07-18T17:41:59.762636"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T17:42:02.906252"
     }
   ],
   "last_mode": null,

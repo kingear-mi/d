@@ -1,7 +1,7 @@
 {
   "chat_id": "787115239",
   "username": "KRIXSITE",
-  "link_count": 12,
+  "link_count": 13,
   "is_premium": false,
   "premium_expiry": null,
   "categories": {
@@ -483,15 +483,45 @@
       "type": "bot_response",
       "content": "⬇️ Выберите действие:",
       "timestamp": "2025-07-18T22:42:21.121365"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/7pJYXgHyRAs?si=3Jc6SrNgyRFkhLqy",
+      "timestamp": "2025-07-18T22:46:40.766739"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/7pJYXgHyRAs?si=3Jc6SrNgyRFkhLqy",
+      "timestamp": "2025-07-18T22:46:40.766786"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 13",
+      "timestamp": "2025-07-18T22:46:40.766800"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4631)",
+      "timestamp": "2025-07-18T22:46:41.138785"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T22:46:41.286441"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T22:46:41.434237"
     }
   ],
   "last_mode": null,
   "previous_message": 4625,
-  "current_url": "https://youtube.com/shorts/UxZOksvZsnU?si=WiPz5c60HR5pFxlw",
+  "current_url": "https://youtube.com/shorts/7pJYXgHyRAs?si=3Jc6SrNgyRFkhLqy",
   "category_add_mode": false,
   "category_edit_mode": false,
-  "download_id": "3e881eb5-aa6b-4d8c-bc25-560dc64ffdd9",
-  "last_url_message": 4631,
+  "download_id": "fc0cb939-14b4-431c-bd5c-8a156686013b",
+  "last_url_message": 4634,
   "category_name_message": null,
   "category_edit_message": null,
   "category_to_edit": null,

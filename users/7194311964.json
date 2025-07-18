@@ -456,6 +456,11 @@
       "type": "bot_response",
       "content": "📂 Choose a category for your link! 🌈✨",
       "timestamp": "2025-07-18T17:37:33.706891"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T17:37:37.155472"
     }
   ],
   "last_mode": null,

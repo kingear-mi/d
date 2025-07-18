@@ -461,6 +461,26 @@
       "type": "bot_response",
       "content": "⬇️ Выберите действие:",
       "timestamp": "2025-07-18T17:37:37.155472"
+    },
+    {
+      "type": "user_message",
+      "content": "Download music 🎵",
+      "timestamp": "2025-07-18T17:37:40.852927"
+    },
+    {
+      "type": "bot_response",
+      "content": "Processing your link... ⏳✨",
+      "timestamp": "2025-07-18T17:37:41.119067"
+    },
+    {
+      "type": "user_message",
+      "content": "Hi",
+      "timestamp": "2025-07-18T17:37:54.794792"
+    },
+    {
+      "type": "bot_response",
+      "content": "Please send a valid command or link! 😊",
+      "timestamp": "2025-07-18T17:37:55.027767"
     }
   ],
   "last_mode": null,
@@ -469,7 +489,7 @@
   "category_add_mode": false,
   "category_edit_mode": false,
   "download_id": "628bc05d-f58f-4528-a3ef-b9db2779394d",
-  "last_url_message": 4586,
+  "last_url_message": 4591,
   "last_updated": "2025-07-18T14:15:47.045050",
   "chat_id": "",
   "category_name_message": null,

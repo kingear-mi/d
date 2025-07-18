@@ -1,5 +1,5 @@
 {
-  "link_count": 13,
+  "link_count": 14,
   "is_premium": false,
   "premium_expiry": null,
   "categories": {
@@ -431,14 +431,47 @@
       "type": "bot_response",
       "content": "Sortik+ Premium 💎 invoice sent",
       "timestamp": "2025-07-18T13:52:01.415356"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=CMa4syDXk_BU-G55",
+      "timestamp": "2025-07-18T17:37:33.007275"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=CMa4syDXk_BU-G55",
+      "timestamp": "2025-07-18T17:37:33.007466"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 14",
+      "timestamp": "2025-07-18T17:37:33.007476"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4459)",
+      "timestamp": "2025-07-18T17:37:33.528498"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T17:37:33.706891"
     }
   ],
   "last_mode": null,
   "previous_message": null,
-  "current_url": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+  "current_url": "https://youtube.com/shorts/W2OIIivLO3E?si=CMa4syDXk_BU-G55",
   "category_add_mode": false,
   "category_edit_mode": false,
-  "download_id": "183dba57-d6b2-4da7-94bb-9a1ff3222763",
-  "last_url_message": 4459,
-  "last_updated": "2025-07-18T14:15:47.045050"
+  "download_id": "628bc05d-f58f-4528-a3ef-b9db2779394d",
+  "last_url_message": 4586,
+  "last_updated": "2025-07-18T14:15:47.045050",
+  "chat_id": "",
+  "category_name_message": null,
+  "category_edit_message": null,
+  "category_to_edit": null,
+  "successful_payment_message": null,
+  "new_category": null,
+  "category_color_message": null,
+  "category_add_trigger": null
 }

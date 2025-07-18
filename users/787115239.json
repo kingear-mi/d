@@ -1,7 +1,7 @@
 {
   "chat_id": "787115239",
   "username": "KRIXSITE",
-  "link_count": 10,
+  "link_count": 11,
   "is_premium": false,
   "premium_expiry": null,
   "categories": {
@@ -14,7 +14,8 @@
     "Posts": "yellow",
     "Sport": "green",
     "Useful": "blue",
-    "AI Chats": "purple"
+    "AI Chats": "purple",
+    "L": "blue"
   },
   "start_message": 4596,
   "interactions": [
@@ -382,21 +383,91 @@
       "type": "bot_response",
       "content": "⬇️ Выберите действие:",
       "timestamp": "2025-07-18T17:59:32.304789"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/_1HEIe7sU0I?si=VnB0yH5oEbhVbDnp",
+      "timestamp": "2025-07-18T21:54:34.708941"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/_1HEIe7sU0I?si=VnB0yH5oEbhVbDnp",
+      "timestamp": "2025-07-18T21:54:34.709174"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 11",
+      "timestamp": "2025-07-18T21:54:34.709220"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4622)",
+      "timestamp": "2025-07-18T21:54:35.095155"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T21:54:35.288150"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T21:54:35.455177"
+    },
+    {
+      "type": "user_message",
+      "content": "Callback: add_category",
+      "timestamp": "2025-07-18T21:54:39.644297"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4625)",
+      "timestamp": "2025-07-18T21:54:39.961449"
+    },
+    {
+      "type": "bot_response",
+      "content": "Come up with a name for the new category! 📝✨",
+      "timestamp": "2025-07-18T21:54:40.130584"
+    },
+    {
+      "type": "user_message",
+      "content": "L",
+      "timestamp": "2025-07-18T21:54:49.889551"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted user message containing new category name",
+      "timestamp": "2025-07-18T21:54:50.274272"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted category name message (ID: 4627)",
+      "timestamp": "2025-07-18T21:54:50.486533"
+    },
+    {
+      "type": "bot_action",
+      "content": "Added new category 'L' with color 'blue'",
+      "timestamp": "2025-07-18T21:54:50.486828"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T21:54:50.676732"
     }
   ],
   "last_mode": null,
-  "previous_message": null,
-  "current_url": "https://www.youtube.com/shorts/hNukBieEfF0",
+  "previous_message": 4625,
+  "current_url": "https://youtube.com/shorts/_1HEIe7sU0I?si=VnB0yH5oEbhVbDnp",
   "category_add_mode": false,
   "category_edit_mode": false,
-  "download_id": "3afed1f5-76e2-4f18-8300-ecbd7f552ce3",
-  "last_url_message": 4622,
+  "download_id": "187c7368-e71e-456d-8b97-130f0137889c",
+  "last_url_message": 4629,
   "category_name_message": null,
   "category_edit_message": null,
   "category_to_edit": null,
   "successful_payment_message": null,
   "new_category": null,
   "category_color_message": null,
-  "category_add_trigger": null,
+  "category_add_trigger": "button",
   "last_updated": "2025-07-18T14:15:45.544405"
 }

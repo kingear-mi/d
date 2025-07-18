@@ -1,0 +1,444 @@
+{
+  "link_count": 13,
+  "is_premium": false,
+  "premium_expiry": null,
+  "categories": {
+    "All": "blue",
+    "Music": "purple",
+    "Sport": "green",
+    "Fun": "pink",
+    "Tech": "indigo",
+    "News": "red",
+    "Posts": "yellow",
+    "AI Chats": "purple",
+    "Maps": "green",
+    "Useful": "blue"
+  },
+  "start_message": 4456,
+  "username": null,
+  "interactions": [
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:12.976749"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:12.976955"
+    },
+    {
+      "type": "bot_response",
+      "content": "Lost that link again? ⛔️ It was in a chat. Or a bookmark. Or maybe a note. You definitely saved it… but where? \n 📌 In Telegram, it’s chaos. Links get buried in chats, useful bots scroll out of sight, videos, articles, AI chats—all jumbled together. \n And when you need to find something fast, you waste time, nerves, and… end up Googling again. \n 📲 The solution is here — @sortik_app_bot, the ultimate link organizer right in Telegram. Here’s what it does: \n✔️ Saves links by topics and projects; \n✔️ Sorts videos, articles, bots, channels—by categories; \n✔️ Gives you one-tap access; \n✔️ Works as a sleek mini-app—beautiful and user-friendly; \n✔️ And most importantly—keeps everything local on your device. 100% privacy. \n⚡️ NO MORE MESS, no more “I’ll find it later.” Save. Manage. Get back to what matters—when it matters. \n👉 TRY IT NOW: 🔗 t.me/sortik_app_bot \nSend a link now and start organizing!",
+      "timestamp": "2025-07-18T13:51:13.496656"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 1",
+      "timestamp": "2025-07-18T13:51:13.497675"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T13:51:13.708312"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T13:51:13.937145"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:17.391445"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:17.391463"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 2",
+      "timestamp": "2025-07-18T13:51:17.391470"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4420)",
+      "timestamp": "2025-07-18T13:51:17.610660"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T13:51:17.858807"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T13:51:18.133779"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:19.739194"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:19.739211"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 3",
+      "timestamp": "2025-07-18T13:51:19.739218"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4423)",
+      "timestamp": "2025-07-18T13:51:19.890950"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T13:51:20.063619"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T13:51:20.226521"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:23.347912"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:23.347932"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 4",
+      "timestamp": "2025-07-18T13:51:23.347941"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4426)",
+      "timestamp": "2025-07-18T13:51:23.514733"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T13:51:23.693789"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T13:51:23.862643"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:25.229119"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:25.229137"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 5",
+      "timestamp": "2025-07-18T13:51:25.229147"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4429)",
+      "timestamp": "2025-07-18T13:51:25.386935"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T13:51:25.563948"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T13:51:25.752603"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:28.908356"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:28.908371"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 6",
+      "timestamp": "2025-07-18T13:51:28.908378"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4432)",
+      "timestamp": "2025-07-18T13:51:29.436349"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T13:51:29.763350"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T13:51:29.994044"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:33.586599"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:33.586618"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 7",
+      "timestamp": "2025-07-18T13:51:33.586627"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4435)",
+      "timestamp": "2025-07-18T13:51:33.739059"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T13:51:33.906929"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T13:51:34.080915"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:37.013924"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:37.013945"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 8",
+      "timestamp": "2025-07-18T13:51:37.013956"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4438)",
+      "timestamp": "2025-07-18T13:51:37.166485"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T13:51:37.328637"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T13:51:37.493247"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:41.353781"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:41.353794"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 9",
+      "timestamp": "2025-07-18T13:51:41.353801"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4441)",
+      "timestamp": "2025-07-18T13:51:41.542225"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T13:51:41.711954"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T13:51:41.874326"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:43.552530"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:43.552545"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 10",
+      "timestamp": "2025-07-18T13:51:43.552553"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4444)",
+      "timestamp": "2025-07-18T13:51:43.721176"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T13:51:43.884319"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T13:51:44.047153"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:49.498110"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:49.498124"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 11",
+      "timestamp": "2025-07-18T13:51:49.498130"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4447)",
+      "timestamp": "2025-07-18T13:51:49.942007"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T13:51:50.114151"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T13:51:50.286954"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:53.279278"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:53.279297"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 12",
+      "timestamp": "2025-07-18T13:51:53.279307"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4450)",
+      "timestamp": "2025-07-18T13:51:53.452345"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T13:51:53.623850"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T13:51:53.808133"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:56.445855"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+      "timestamp": "2025-07-18T13:51:56.445875"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 13",
+      "timestamp": "2025-07-18T13:51:56.445885"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted start message (ID: 4419)",
+      "timestamp": "2025-07-18T13:51:56.611904"
+    },
+    {
+      "type": "bot_response",
+      "content": "Sortik awaits you! 🎉 Unlock Sortik+ for 160 Telegram Stars and get unlimited access to stylish sorting, unique categories, and a super interface! 🌈",
+      "timestamp": "2025-07-18T13:51:56.803646"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4453)",
+      "timestamp": "2025-07-18T13:51:56.986406"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T13:51:57.199674"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T13:51:57.414753"
+    },
+    {
+      "type": "user_message",
+      "content": "Callback: initiate_payment",
+      "timestamp": "2025-07-18T13:52:00.834205"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted payment initiation message",
+      "timestamp": "2025-07-18T13:52:01.214394"
+    },
+    {
+      "type": "bot_response",
+      "content": "Sortik+ Premium 💎 invoice sent",
+      "timestamp": "2025-07-18T13:52:01.415356"
+    }
+  ],
+  "last_mode": null,
+  "previous_message": null,
+  "current_url": "https://youtube.com/shorts/W2OIIivLO3E?si=kdiIyHUlzH3asIoQ",
+  "category_add_mode": false,
+  "category_edit_mode": false,
+  "download_id": "183dba57-d6b2-4da7-94bb-9a1ff3222763",
+  "last_url_message": 4459,
+  "last_updated": "2025-07-18T14:15:47.045050"
+}

@@ -1,7 +1,7 @@
 {
   "chat_id": "787115239",
   "username": "KRIXSITE",
-  "link_count": 8,
+  "link_count": 10,
   "is_premium": false,
   "premium_expiry": null,
   "categories": {
@@ -317,15 +317,80 @@
       "type": "bot_response",
       "content": "Lost that link again? ⛔️ It was in a chat. Or a bookmark. Or maybe a note. You definitely saved it… but where? \n 📌 In Telegram, it’s chaos. Links get buried in chats, useful bots scroll out of sight, videos, articles, AI chats—all jumbled together. \n And when you need to find something fast, you waste time, nerves, and… end up Googling again. \n 📲 The solution is here — @sortik_app_bot, the ultimate link organizer right in Telegram. Here’s what it does: \n✔️ Saves links by topics and projects; \n✔️ Sorts videos, articles, bots, channels—by categories; \n✔️ Gives you one-tap access; \n✔️ Works as a sleek mini-app—beautiful and user-friendly; \n✔️ And most importantly—keeps everything local on your device. 100% privacy. \n⚡️ NO MORE MESS, no more “I’ll find it later.” Save. Manage. Get back to what matters—when it matters. \n👉 TRY IT NOW: 🔗 t.me/sortik_app_bot \nSend a link now and start organizing!",
       "timestamp": "2025-07-18T17:42:22.578029"
+    },
+    {
+      "type": "user_message",
+      "content": "https://www.youtube.com/shorts/hNukBieEfF0",
+      "timestamp": "2025-07-18T17:57:07.409339"
+    },
+    {
+      "type": "user_message",
+      "content": "https://www.youtube.com/shorts/hNukBieEfF0",
+      "timestamp": "2025-07-18T17:57:07.409670"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 9",
+      "timestamp": "2025-07-18T17:57:07.409687"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Выберите категорию для вашей ссылки! 🌈✨",
+      "timestamp": "2025-07-18T17:57:08.021672"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T17:57:08.216020"
+    },
+    {
+      "type": "user_message",
+      "content": "Скачать музыку 🎵",
+      "timestamp": "2025-07-18T17:57:16.652850"
+    },
+    {
+      "type": "bot_response",
+      "content": "Обработка вашей ссылки... ⏳✨",
+      "timestamp": "2025-07-18T17:57:17.128690"
+    },
+    {
+      "type": "user_message",
+      "content": "https://www.youtube.com/shorts/hNukBieEfF0",
+      "timestamp": "2025-07-18T17:59:31.517023"
+    },
+    {
+      "type": "user_message",
+      "content": "https://www.youtube.com/shorts/hNukBieEfF0",
+      "timestamp": "2025-07-18T17:59:31.517075"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 10",
+      "timestamp": "2025-07-18T17:59:31.517094"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4620)",
+      "timestamp": "2025-07-18T17:59:31.891370"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Выберите категорию для вашей ссылки! 🌈✨",
+      "timestamp": "2025-07-18T17:59:32.045775"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-18T17:59:32.304789"
     }
   ],
   "last_mode": null,
   "previous_message": null,
-  "current_url": "https://www.shazam.com/track/459798454/wahran?co=FI&referrer=shazam-module&offsetInMilliseconds=49240&timeSkew=0.0011451244&trackLength=231114&startDate=2025-07-18T17:40:08.765Z#%7B%22title%22:%22Wahran%22,%22artist%22:%22Randall%22%7D",
+  "current_url": "https://www.youtube.com/shorts/hNukBieEfF0",
   "category_add_mode": false,
   "category_edit_mode": false,
-  "download_id": "1fdee01b-43d6-4662-a3fb-51b65805daf7",
-  "last_url_message": 4593,
+  "download_id": "3afed1f5-76e2-4f18-8300-ecbd7f552ce3",
+  "last_url_message": 4622,
   "category_name_message": null,
   "category_edit_message": null,
   "category_to_edit": null,

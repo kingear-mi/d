@@ -1,7 +1,7 @@
 {
   "chat_id": "787115239",
   "username": "KRIXSITE",
-  "link_count": 7,
+  "link_count": 8,
   "is_premium": false,
   "premium_expiry": null,
   "categories": {
@@ -282,15 +282,35 @@
       "type": "bot_action",
       "content": "Removed keyboard after download",
       "timestamp": "2025-07-17T15:27:50.602077"
+    },
+    {
+      "type": "user_message",
+      "content": "https://www.shazam.com/track/459798454/wahran?co=FI&referrer=shazam-module&offsetInMilliseconds=49240&timeSkew=0.0011451244&trackLength=231114&startDate=2025-07-18T17:40:08.765Z#%7B%22title%22:%22Wahran%22,%22artist%22:%22Randall%22%7D",
+      "timestamp": "2025-07-18T17:41:59.276036"
+    },
+    {
+      "type": "user_message",
+      "content": "https://www.shazam.com/track/459798454/wahran?co=FI&referrer=shazam-module&offsetInMilliseconds=49240&timeSkew=0.0011451244&trackLength=231114&startDate=2025-07-18T17:40:08.765Z#%7B%22title%22:%22Wahran%22,%22artist%22:%22Randall%22%7D",
+      "timestamp": "2025-07-18T17:41:59.276055"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 8",
+      "timestamp": "2025-07-18T17:41:59.276069"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Choose a category for your link! 🌈✨",
+      "timestamp": "2025-07-18T17:41:59.762636"
     }
   ],
   "last_mode": null,
   "previous_message": null,
-  "current_url": "https://youtube.com/shorts/bWGWuix41uo?si=HnqQBAhMGxMU5o1d",
+  "current_url": "https://www.shazam.com/track/459798454/wahran?co=FI&referrer=shazam-module&offsetInMilliseconds=49240&timeSkew=0.0011451244&trackLength=231114&startDate=2025-07-18T17:40:08.765Z#%7B%22title%22:%22Wahran%22,%22artist%22:%22Randall%22%7D",
   "category_add_mode": false,
   "category_edit_mode": false,
-  "download_id": "e7ee370c-ee1d-472d-997d-40c9f05ffe63",
-  "last_url_message": null,
+  "download_id": "1fdee01b-43d6-4662-a3fb-51b65805daf7",
+  "last_url_message": 4593,
   "category_name_message": null,
   "category_edit_message": null,
   "category_to_edit": null,

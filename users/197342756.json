@@ -1,5 +1,5 @@
 {
-  "link_count": 1,
+  "link_count": 2,
   "is_premium": false,
   "premium_expiry": null,
   "categories": {
@@ -12,7 +12,8 @@
     "Posts": "yellow",
     "AI Chats": "purple",
     "Maps": "green",
-    "Useful": "blue"
+    "Useful": "blue",
+    "Шиття": "indigo"
   },
   "start_message": 3776,
   "username": null,
@@ -46,15 +47,80 @@
       "type": "bot_response",
       "content": "⬇️ Выберите действие:",
       "timestamp": "2025-07-14T10:52:08.958020"
+    },
+    {
+      "type": "user_message",
+      "content": "https://vm.tiktok.com/ZNdmUo37S",
+      "timestamp": "2025-07-19T15:19:15.590720"
+    },
+    {
+      "type": "user_message",
+      "content": "https://vm.tiktok.com/ZNdmUo37S",
+      "timestamp": "2025-07-19T15:19:15.590750"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 2",
+      "timestamp": "2025-07-19T15:19:15.590762"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Виберіть категорію для вашого посилання! 🌈✨",
+      "timestamp": "2025-07-19T15:19:16.148582"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-19T15:19:16.359507"
+    },
+    {
+      "type": "user_message",
+      "content": "Callback: add_category",
+      "timestamp": "2025-07-19T15:19:22.872538"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted last URL message (ID: 4645)",
+      "timestamp": "2025-07-19T15:19:23.415946"
+    },
+    {
+      "type": "bot_response",
+      "content": "Придумайте назву для нової категорії! 📝✨",
+      "timestamp": "2025-07-19T15:19:23.584760"
+    },
+    {
+      "type": "user_message",
+      "content": "Шиття",
+      "timestamp": "2025-07-19T15:19:34.176695"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted user message containing new category name",
+      "timestamp": "2025-07-19T15:19:34.616277"
+    },
+    {
+      "type": "bot_action",
+      "content": "Deleted category name message (ID: 4647)",
+      "timestamp": "2025-07-19T15:19:34.804507"
+    },
+    {
+      "type": "bot_action",
+      "content": "Added new category 'Шиття' with color 'indigo'",
+      "timestamp": "2025-07-19T15:19:34.804791"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Виберіть категорію для вашого посилання! 🌈✨",
+      "timestamp": "2025-07-19T15:19:35.038654"
     }
   ],
   "last_mode": null,
-  "previous_message": null,
-  "current_url": "https://vm.tiktok.com/ZNdaMhsDB",
+  "previous_message": 4645,
+  "current_url": "https://vm.tiktok.com/ZNdmUo37S",
   "category_add_mode": false,
   "category_edit_mode": false,
-  "download_id": "ffd41cd4-07ac-45d6-badf-9a019b0c28d4",
-  "last_url_message": 3777,
+  "download_id": "a9a906ef-cf02-4437-ac20-65b03fa043d2",
+  "last_url_message": 4649,
   "chat_id": "",
   "category_name_message": null,
   "category_edit_message": null,
@@ -62,5 +128,5 @@
   "successful_payment_message": null,
   "new_category": null,
   "category_color_message": null,
-  "category_add_trigger": null
+  "category_add_trigger": "button"
 }

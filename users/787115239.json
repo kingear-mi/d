@@ -543,6 +543,16 @@
       "type": "bot_response",
       "content": "⬇️ Выберите действие:",
       "timestamp": "2025-07-19T09:09:11.892290"
+    },
+    {
+      "type": "user_message",
+      "content": "Скачать музыку 🎵",
+      "timestamp": "2025-07-19T09:09:13.264654"
+    },
+    {
+      "type": "bot_response",
+      "content": "Обработка вашей ссылки... ⏳✨",
+      "timestamp": "2025-07-19T09:09:13.421415"
     }
   ],
   "last_mode": null,
@@ -551,7 +561,7 @@
   "category_add_mode": false,
   "category_edit_mode": false,
   "download_id": "2e2c9330-c6c5-4aff-981a-4035fa22b88f",
-  "last_url_message": 4637,
+  "last_url_message": 4640,
   "category_name_message": null,
   "category_edit_message": null,
   "category_to_edit": null,

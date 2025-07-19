@@ -1,7 +1,7 @@
 {
   "chat_id": "1426254693",
   "username": "bavigear",
-  "link_count": 1,
+  "link_count": 2,
   "is_premium": false,
   "premium_expiry": null,
   "categories": {
@@ -62,15 +62,40 @@
       "type": "bot_response",
       "content": "⬇️ Выберите действие:",
       "timestamp": "2025-07-16T15:41:30.217959"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/USEFkNAwmjE?si=feWmBj4yqLNEKpYo",
+      "timestamp": "2025-07-19T12:12:03.164730"
+    },
+    {
+      "type": "user_message",
+      "content": "https://youtube.com/shorts/USEFkNAwmjE?si=feWmBj4yqLNEKpYo",
+      "timestamp": "2025-07-19T12:12:03.164978"
+    },
+    {
+      "type": "bot_action",
+      "content": "Incremented link count to 2",
+      "timestamp": "2025-07-19T12:12:03.165031"
+    },
+    {
+      "type": "bot_response",
+      "content": "📂 Выберите категорию для вашей ссылки! 🌈✨",
+      "timestamp": "2025-07-19T12:12:03.695309"
+    },
+    {
+      "type": "bot_response",
+      "content": "⬇️ Выберите действие:",
+      "timestamp": "2025-07-19T12:12:03.896798"
     }
   ],
   "last_mode": null,
   "previous_message": null,
-  "current_url": "https://t.me/c/1841742643/8732",
+  "current_url": "https://youtube.com/shorts/USEFkNAwmjE?si=feWmBj4yqLNEKpYo",
   "category_add_mode": false,
   "category_edit_mode": false,
-  "download_id": "2bf978f0-fd19-4d01-9827-cae28b2f0813",
-  "last_url_message": 4168,
+  "download_id": "f0c9f0b3-6005-4318-a513-47731eb15d58",
+  "last_url_message": 4642,
   "category_name_message": null,
   "category_edit_message": null,
   "category_to_edit": null,
